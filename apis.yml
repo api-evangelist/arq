@@ -50,7 +50,7 @@ modified: '2026-07-18'
 tags:
 - Company
 - Fintech
-- Financial-Services
+- Financial Services
 - Payments
 - Cross-Border Payments
 - Stablecoins
@@ -71,6 +71,7 @@ tags_raw:
 - Investing
 - Latin America
 - Mexico
+- Financial-Services
 apis: []
 common:
 - type: DomainSecurity
